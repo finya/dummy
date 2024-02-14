@@ -1,0 +1,32 @@
+{
+  "count": 1,
+  "pageSize": 20,
+  "page": 0,
+  "pages": 1,
+  "pageNext": null,
+  "pagePrevious": null,
+  "results": [
+    {
+      "customer": {
+        "guid": "46f9157f-cfd6-4fa5-af5d-3761e392edae",
+        "type": "CustomerComfortContactInfo",
+        "firstName": "Кот",
+        "lastName": "Котовый",
+        "middleName": "Котевич",
+        "phoneNumber": "MluGY+hvanHDIbq/KKMG2oVrUHex72Ifx6QZ4j7ZaJrrpq657gFRQDSCBCR9Ap5zH0MZrGTgkGj24Apj/uaeCtGtfiVVkb8cw0cldT1HoOvZDIhBeNNJxm71+L+AVvkeTUyIZwZ8qvqITMjsMHIp3en4YpWkxLpoI1u3cvI0rBNjXzGNQppUWgbolAPRtZgWcnU6X0OyAQTDjeYWczlv393QFRZFaE+Qx2WzgXgoewadpOyC3Acu6Z3CRDnoBQuo3G9ZSLd11otAXhRHSnXuf6K+Ac0Z/3L6GX5HbJ6jOXtFrxXj399KG7KrZLO/mXsPvKMCBulKUSmfaD1iBicxFg==",
+        "eMail": "VYWFMOjsihVCdzyFecUV6AxfjY0K6ocmTzKzalPnD61DkVMd3Q25dj6mgk5mg150VqNbhl0BJNtEDJUPY/XJKknK0pxE6rWiJYwuh34m1DdB1obCB4+ezmkf3iGXZLF3DULG906eS8buluNGFGxKuuJZ7b4c/Pn1ClOuvQT4CVQVILmxWZjiyf2MEb5mc/yG2yPawZOyFblIAN9xV420txrUpDS9bsEZp2y6aQXt+kF0kmwWEA+c0X6+O64RCSL3YP3aS5ElWCLcQ75v8PGHO2ePI/J54Rc8fuFLR/ueqR4cbBp1XWSRNQN1z0EPHouYaxjDdrL2z32ZlJCN9hax2w==",
+        "created": "2024-02-05T10:47:38+00:00",
+        "updated": null,
+        "validObjectGuid": "9d4bd2ec-6a3d-4366-8db6-a8042ad215b5",
+        "mainContractor": {
+          "guid": "203d2b53-0acc-e911-8458-0050568d95a6",
+          "type": "CrmContractor"
+        },
+        "deal": {
+          "guid": "f689e81b-db9a-ec11-8548-0050568da637",
+          "type": "deal"
+        }
+      }
+    }
+  ]
+}
